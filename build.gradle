@@ -1,4 +1,5 @@
 apply plugin: 'java'
+apply plugin: 'eclipse'
 
 dependencies {
   compile "org.apache.lucene:lucene-core:5.0-SNAPSHOT"
